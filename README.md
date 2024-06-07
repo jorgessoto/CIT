@@ -4,7 +4,7 @@
 
 ## CIT 281: <br />
 ### Projects: <br />
-Project 1 <br />
+<a href="CIT/CIT281-Project/Project-1"> Project 1 <br /> </a>
 Project 2 <br />
 Project 3 <br />
 Project 4 <br />
@@ -21,4 +21,3 @@ Lab 06 <br />
 Lab 07 <br />
 Lab 08 <br />
 Lab 09 <br />
-Lab 10 <br />
