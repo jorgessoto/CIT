@@ -12,12 +12,12 @@
 <a href="CIT281-Project/Project-6"> Project 6 <br /> </a>
 
 ### Labs: <br />
-Lab 01 <br />
-Lab 02 <br />
-Lab 03 <br />
-Lab 04 <br />
-Lab 05 <br />
-Lab 06 <br />
-Lab 07 <br />
-Lab 08 <br />
-Lab 09 <br />
+<a href="CIT281-Lab/Lab-01"> Lab 01 <br /> </a>
+<a href="CIT281-Lab/Lab-02"> Lab 02 <br /> </a>
+<a href="CIT281-Lab/Lab-03"> Lab 03 <br /> </a>
+<a href="CIT281-Lab/Lab-04"> Lab 04 <br /> </a>
+<a href="CIT281-Lab/Lab-05"> Lab 05 <br /> </a>
+<a href="CIT281-Lab/Lab-06"> Lab 06 <br /> </a>
+<a href="CIT281-Lab/Lab-07"> Lab 07 <br /> </a>
+<a href="CIT281-Lab/Lab-08"> Lab 08 <br /> </a>
+<a href="CIT281-Lab/lab-09"> Lab 09 <br /> </a>
