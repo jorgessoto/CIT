@@ -1,7 +1,7 @@
 # CIT
 
-CIT 281:
-Projects: <br />
+## CIT 281: <br />
+### Projects: <br />
 Project 1 <br />
 Project 2 <br />
 Project 3 <br />
@@ -9,7 +9,7 @@ Project 4 <br />
 Project 5 <br />
 Project 6 <br />
 
-Labs: <br />
+### Labs: <br />
 Lab 01 <br />
 Lab 02 <br />
 Lab 03 <br />
