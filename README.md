@@ -1,22 +1,22 @@
 # CIT
 
 CIT 281:
-Projects:
-Project 1
-Project 2
-Project 3
-Project 4
-Project 5
-Project 6
+Projects: <br />
+Project 1 <br />
+Project 2 <br />
+Project 3 <br />
+Project 4 <br />
+Project 5 <br />
+Project 6 <br />
 
-Labs:
-Lab 01
-Lab 02
-Lab 03
-Lab 04
-Lab 05
-Lab 06
-Lab 07
-Lab 08
-Lab 09
-Lab 10
+Labs: <br />
+Lab 01 <br />
+Lab 02 <br />
+Lab 03 <br />
+Lab 04 <br />
+Lab 05 <br />
+Lab 06 <br />
+Lab 07 <br />
+Lab 08 <br />
+Lab 09 <br />
+Lab 10 <br />
