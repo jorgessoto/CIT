@@ -4,12 +4,12 @@
 
 ## CIT 281: <br />
 ### Projects: <br />
-<a href="CIT/CIT281-Project/CIT281-P1"> Project 1 <br /> </a>
-<a href="CIT/CIT281-Project/Project-2"> Project 2 <br /> </a>
-<a href="CIT/CIT281-Project/Project-3"> Project 3 <br /> </a>
-<a href="CIT/CIT281-Project/Project-4"> Project 4 <br /> </a>
-<a href="CIT/CIT281-Project/Project-5"> Project 5 <br /> </a>
-<a href="CIT/CIT281-Project/Project-6"> Project 6 <br /> </a>
+<a href="CIT281-Project/CIT281-P1"> Project 1 <br /> </a>
+<a href="CIT281-Project/Project-2"> Project 2 <br /> </a>
+<a href="CIT281-Project/Project-3"> Project 3 <br /> </a>
+<a href="CIT281-Project/Project-4"> Project 4 <br /> </a>
+<a href="CIT281-Project/Project-5"> Project 5 <br /> </a>
+<a href="CIT281-Project/Project-6"> Project 6 <br /> </a>
 
 ### Labs: <br />
 Lab 01 <br />
