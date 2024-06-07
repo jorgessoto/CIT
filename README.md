@@ -1,5 +1,7 @@
 # CIT
 
+![githubimage](https://github.com/jorgessoto/CIT/assets/119824678/14d3c9cd-f8de-4d28-bd4c-3c24a7b22045)
+
 ## CIT 281: <br />
 ### Projects: <br />
 Project 1 <br />
