@@ -2,6 +2,8 @@
 
 ![githubimage](https://github.com/jorgessoto/CIT/assets/119824678/14d3c9cd-f8de-4d28-bd4c-3c24a7b22045)
 
+<h1> Welcome to my Github page for my CIT minor </h1>
+
 ## CIT 281: <br />
 ### Projects: <br />
 <a href="CIT281-Project/CIT281-P1"> Project 1 <br /> </a>
